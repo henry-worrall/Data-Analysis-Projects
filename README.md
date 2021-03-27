@@ -27,7 +27,15 @@ This growing collection of projects aims to boost my knowledge and understanding
             Hacker News Posts
         </td>
         <td>
-            Uses data cellected from the Blog site "Hacker News" to determine when you should create a post in order to recieve the most comments.
+            Uses data collected from the Blog site "Hacker News" to determine when you should create a post in order to receive the most comments.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            eBay Car Sales
+        </td>
+        <td>
+            Uses data collected from the German eBay website to practice and show data cleaning techniques in numpy and pandas.
         </td>
     </tr>
 </table>
