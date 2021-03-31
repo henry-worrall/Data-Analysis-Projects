@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data Analysis Projects
 This growing collection of projects aims to boost my knowledge and understanding of data analysis using python. The majority of these projects have been completed as part of the DataQuest Data Analyst in Python course.
 
 <br>
@@ -36,6 +36,14 @@ This growing collection of projects aims to boost my knowledge and understanding
         </td>
         <td>
             Uses data collected from the German eBay website to practice and show data cleaning techniques in numpy and pandas.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Heavy Traffic Indicators
+        </td>
+        <td>
+            Uses data from USA I-94 highway to determine relationships between different variables using data visualisation for exploratory analysis.
         </td>
     </tr>
 </table>
