@@ -46,6 +46,14 @@ This growing collection of projects aims to boost my knowledge and understanding
             Uses data from USA I-94 highway to determine relationships between different variables using data visualisation for exploratory analysis.
         </td>
     </tr>
+    <tr>
+        <td>
+            Exchange Rates
+        </td>
+        <td>
+            Uses data from the European Central Bank to show how the Euro-USD exchange rate varied over time in relation to different global events with explanatory data visualisation.
+        </td>
+    </tr>
 </table>
 <br>
 <br>
